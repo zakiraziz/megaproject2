@@ -11,7 +11,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-repo/chat-automation.git
-Install the required dependencies:
+Install the required dependencies: 
 bash
 Copy code
 pip install pyautogui pyperclip openai
