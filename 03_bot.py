@@ -4,7 +4,7 @@ import pyperclip
 from openai import OpenAI
 
 
-
+ 
 
 client = OpenAI(
   api_key="<Your Key Here>",
