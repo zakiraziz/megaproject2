@@ -3,7 +3,7 @@ Welcome to Chat Automation, a Python project that combines the power of PyAutoGU
 
 🚀 Features
 Mouse Automation: Automatically clicks and drags to select text from chat windows.
-Clipboard Integration: Copies chat history directly from the screen.
+Clipboard Integration: Copies chat history directly from the screen. 
 AI-Powered Responses: Uses OpenAI to generate witty replies based on the chat history.
 Python-Powered: Simple Python code with powerful libraries like pyautogui, pyperclip, and openai.
 🛠️ Installation
